@@ -42,3 +42,8 @@ main {
 #summary {
     text-align: center;
 }
+
+#main-bio {
+    text-align: center;
+    margin: 20px;
+}
