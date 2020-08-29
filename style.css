@@ -32,3 +32,13 @@ main {
     margin: 50px;
     padding: 25px;
 }
+
+#repo {
+    border-style: groove;
+    border-width: 5px;
+    text-align: center;
+}
+
+#summary {
+    text-align: center;
+}
