@@ -47,3 +47,7 @@ main {
     text-align: center;
     margin: 20px;
 }
+#planner {
+    display: flex;
+    justify-content: center;
+}
