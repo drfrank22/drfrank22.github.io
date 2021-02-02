@@ -1,0 +1,24 @@
+{
+  "name": "github_portfolio",
+  "version": "1.0.0",
+  "description": "Github Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "n/a",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drfrank22/drfrank22.github.io.git"
+  },
+  "author": "Dylan Frank",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/drfrank22/drfrank22.github.io/issues"
+  },
+  "homepage": "https://github.com/drfrank22/drfrank22.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
